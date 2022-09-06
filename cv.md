@@ -1,15 +1,13 @@
 # Dmytro Lytvynko
----
 ## Contacts
-* **Location**: Kyiv, Ukraine
-* **Phone**: +38 063 426 7274
-* **Email**: agrrbagrr1986@gmail.com
-* **GitHub**: lytvynko
----
++ **Location**: Kyiv, Ukraine
++ **Phone**: +38 063 426 7274
++ **Email**: agrrbagrr1986@gmail.com
++ **GitHub**: lytvynko
+===
 ## About Me
 I have some experience in web development working in two international companies as a webmaster. 
 Good communication skills, excellent team player and always thirsty for new knowledge.
-
 ---
 ## Skills
 * HTML
@@ -28,7 +26,7 @@ if (a > b) {
 **University**: Kyiv National University of Technologies and Design, master's degree in business economics
 ---
 ## Courses:
-**Webmaster 2021**, [Udemy](https://www.udemy.com/course/webdeveloper/)
+[**Webmaster 2021**](https://www.udemy.com/course/webdeveloper/ "Udemy course")
 ---
 ## English
 C1
